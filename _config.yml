@@ -6,6 +6,7 @@ description: >-
   this line in _config.yml. It will appear in your document head meta
   (for Google search results) and in your feed.xml site description.
 url: http://clinical-genomics.github.io/software-development
+base_url: http://clinical-genomics.github.io/software-development
 
 # Build settings
 markdown: kramdown
