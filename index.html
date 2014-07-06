@@ -1,20 +1,22 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="home">
+<main>
 
-  <h1>Posts</h1>
+  <header class="page__header">
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+    <div class="header__wrapper">
+      <div class="header__title">
+        <h1>Code Style Guide</h1>
+      </div>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </header>
 
-</div>
+  <article class="page__body">
+    Read it and weep.
+  </article>
+
+</main>

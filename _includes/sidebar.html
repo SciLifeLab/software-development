@@ -1,0 +1,15 @@
+<aside class="sidebar">
+
+  <a class="site-title" href="{{ site.baseurl }}/">
+    <img src="/img/logo.svg" alt="{{ site.title }} Logo">
+  </a>
+
+  <nav class="site-nav">
+    {% for node in site.pages %}
+      <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ node.url | prepend: site.baseurl }}">
+        {{ node.title }}
+      </a>
+    {% endfor %}
+  </nav>
+
+</aside>

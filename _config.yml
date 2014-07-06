@@ -1,10 +1,13 @@
 # Site settings
-title: Software Development at Clinical Genomics
+title: SciLifeLab
 email: robin.andeer@scilifelab.se
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: "http://clinical-genomics.github.io/software-development"
-url: "http://clinical-genomics.github.io/software-development"
+description: >-
+  Write an awesome description for your new site here. You can edit
+  this line in _config.yml. It will appear in your document head meta
+  (for Google search results) and in your feed.xml site description.
+url: http://clinical-genomics.github.io/software-development
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+highlighter: pygments

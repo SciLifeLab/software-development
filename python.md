@@ -18,6 +18,9 @@ $ pip install [-e] .
 
 This means that the package needs a ``setup.py`` file which is used by ``setuptools`` during installation. To expose scripts it's preferred to use [entry points][entry-points] over explicit python scripts.
 
+## Starting point
+To easy get set up with a base project structure we should provide a central skeleton repository to base future Python projects on.
+
 ## Python 2 vs. 3 support
 Code should be written to take advantage of straight forward ways to accomplish universal Python support. This means:
 
@@ -33,7 +36,7 @@ Code should be written to take advantage of straight forward ways to accomplish 
 If you are building anything remotely complex, the command line framework of choice is [Click][click]. It's an elegant and flexible package with a great syntax.
 
 ## Imperative vs. functional programming
-Is writing unit tests for your code a piece of cake? If "yes", then you should worry - you are probably writing good quality already. However, if you are struggling with your tests it might help to consider more of a *functional* (rather than imperative) approach. Read [an introduction to functional programming][functional] or take away some of the key points:
+Is writing unit tests for your code a piece of cake? If "yes", then you need not worry - you are probably writing good quality already. However, if you are struggling with your tests it might help to consider more of a *functional* (rather than imperative) approach. Read [an introduction to functional programming][functional] or take away some of the key points:
 
 1. Each function should do *only* one thing.
 2. Write *stateless* functions that perform tasks without knowledge of what's going on beyond it's scope.
