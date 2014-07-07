@@ -1,6 +1,9 @@
 # software-development
 General guidelines and style guide for software developed at SciLifeLab.
 
+I think we'll start with software development and see if we branch out enough to discuss if we should switch the name of the repository.
+
+
 ## Idea
 The guide should clearly separate between 1) *conventions*, 2) *best practices*, and 3) *helpful tools*. Try to mark each paragraph or suggestion with it's corresponding label.
 
