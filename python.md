@@ -45,16 +45,7 @@ Is writing unit tests for your code a piece of cake? If "yes", then you need not
 4. Think hard before adding for/while loops, there's usually a cleaner way to do it.
 5. Compose small, discrete components into larger once.
 
-## Documentation
-Documentation will inevitably be [the most][rdd] [important part][most-important-doc] of your project going forward. It's therefore important to use any and all means at your disposal to document your code. :gem: Include a lot of usage examples and keep it concise and clearly structured.
-
-### Flowcharts
-Flowcharts can convey an overview that is impossible to put into words. It can be a great way to organize for example a pipeline of functions that will help you in the design of your project.
-
-### Inline
-Worry more about not documenting enough than documenting too much.
-
-### Docstrings
+## Docstrings
 Functions, methods and classes should be annotated using :green_apple: [Google Style Docstrings][google-doc]. They look a little something like this:
 
 {% highlight python %}
@@ -91,8 +82,6 @@ Another resource that can greatly ease collaboration is :gift_heart: [EditorConf
 [python-guide#style]: http://docs.python-guide.org/en/latest/writing/style/
 [google-doc]: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html
 [functional]: http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/
-[rdd]: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
-[most-important-doc]: http://zachholman.com/posts/documentation/
 [editor-config]: http://editorconfig.org/
 [sublime-config]: https://github.com/sindresorhus/editorconfig-sublime
 [setuptools-entrypoints]: https://pythonhosted.org/setuptools/setuptools.html#automatic-script-creation
