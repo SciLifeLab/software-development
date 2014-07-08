@@ -5,7 +5,7 @@ I think we'll start with software development and see if we branch out enough to
 
 
 ## Idea
-The guide should clearly separate between 1) *conventions*, 2) *best practices*, and 3) *helpful tools*. Try to mark each paragraph or suggestion with it's corresponding label.
+The guide should clearly separate between 1) *conventions* :green_apple:, 2) *best practices* :gem:, and 3) *helpful tools* :gift_heart:. Try to mark each paragraph or suggestion with it's corresponding emoji (before the reference).
 
 1. **Conventions** are agreed upon standards that consolidate projects so that any developer can quickly get up an running with any project. They don't nessesarily need to be motivated or back by evidence.
 
