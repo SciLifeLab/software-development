@@ -4,9 +4,9 @@ title: Documentation
 permalink: /documentation/
 ---
 
-Your project documentation will inevitably be [the most][rdd] [important part][most-important-doc] of your project going forward. It's important to use any and all means at your disposal to document your code. :gem: Include a lot of usage examples and keep it concise and clearly structured.
+Your project documentation will inevitably be **[the most][rdd] [important part][most-important-doc]** of your project going forward. It's important to use any and all means at your disposal to document your code. :gem: Include a lot of usage examples and keep it concise and clearly structured.
 
-## Inline
+## Inline documentation
 Worry more about not documenting enough than documenting too much.
 
 ## Flowcharts

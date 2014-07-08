@@ -4,6 +4,7 @@ title: Versioning
 permalink: /versioning/
 ---
 
+## Semantic Versioning
 There really is no reason to look any futher than :gem: [Semantic Versioning 2.0.0][semver].
 
 In broad terms, SEMVER advocates dividing the version tag into three parts: ``MAJOR.MINOR.PATCH``. The scope of an update to the production code should be reflected in the delta between the previous and new version. E.g. a bug fix will generally correspond to a software patch and would be indicated with ``X.X.X -> X.X.X+1``.

@@ -21,7 +21,7 @@ This means that the package needs a ``setup.py`` file which is used by ``setupto
 ## Starting point
 :thought_balloon: *To easily get set up with a base project structure we should provide a central skeleton repository to base future Python projects on. We might like to consider something like :gift_heart: [Cookiecutter][cookiecutter].*
 
-## Python 2 vs. 3 support
+## <a name="python2vs3"></a> Python 2 vs. 3 support
 Code should be written to take advantage of straight forward ways to accomplish universal Python support. This means:
 
 1. Sticking to pure Python code whenever possible.
