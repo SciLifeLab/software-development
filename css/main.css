@@ -192,6 +192,11 @@ main {
 	font-family: Inconsolata, monospace;
 }
 
+/* Correct odd behavior in code blocks */
+.page code > span:first-child {
+	margin-left: -5px;
+}
+
 .page code { padding: 1px 5px; }
 
 .page ul,
