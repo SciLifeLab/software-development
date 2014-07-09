@@ -6,9 +6,19 @@
 
   <nav class="site-nav">
     {% for node in site.pages %}
-      <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ node.url | prepend: site.baseurl }}">
-        {{ node.title }}
-      </a>
+
+      <!-- Avoid index.html -->
+      {% if node.url.size > 1 %}
+
+        {% assign level = node.url | split: '/' | size %}
+        {% if level < 3 %}
+          <a class="page-link {% if page.url contains node.url %}active{% endif %}" href="{{ node.url | prepend: site.baseurl }}">
+            {{ node.title }}
+          </a>
+        {% endif %}
+
+      {% endif %}
+
     {% endfor %}
   </nav>
 

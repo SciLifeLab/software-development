@@ -39,12 +39,15 @@ You are encouraged to open a pull request for your branch *early*, for example i
 
 
 ## Examples for inspiration
-http://www.cs.swarthmore.edu/~richardw/cs21-s09/python_codestyle.php
-http://wiki.ros.org/PyStyleGuide
-https://github.com/numenta/nupic/wiki/Python-Style-Guide
-http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
-http://www.chromium.org/chromium-os/python-style-guidelines
-http://docs.python-guide.org/en/latest/writing/style/
+
+* [Python Code Style Guidelines](http://www.cs.swarthmore.edu/~richardw/cs21-s09/python_codestyle.php)
+* [PyStyleGuide](http://wiki.ros.org/PyStyleGuide)
+* [Python Style Guide](https://github.com/numenta/nupic/wiki/Python-Style-Guide)
+* [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+* [Chromium: Python Style Guidelines](http://www.chromium.org/chromium-os/python-style-guidelines)
+* [Python Guide: Code Style](http://docs.python-guide.org/en/latest/writing/style/)
+
+
 
 [material-style]: http://www.google.com/design/spec/material-design/introduction.html
 [numpy-style]: https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt
