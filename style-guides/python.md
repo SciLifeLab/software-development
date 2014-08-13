@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python
-permalink: /python/
+permalink: /style-guides/python/
 ---
 
 :gem: [PEP8][pep8] and :gem: [PEP20][pep20] (``import this``) should be considered as the starting points. Unless specified otherwise, we follow the guidelines laid out there. For a brief overview, read the [Python Guide][python-guide#style]'s entry on the subject.

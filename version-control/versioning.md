@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Versioning
-permalink: /versioning/
+permalink: /version-control/versioning/
 ---
 
 ## Semantic Versioning

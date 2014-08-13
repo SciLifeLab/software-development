@@ -4,7 +4,9 @@ title: Version Control
 permalink: /version-control/
 ---
 ## Table of Contents
-1. [GitHub][github]
+1. [Versioning][versioning]
+2. [GitHub][github]
+
 
 ## Rebase vs. merge
 
@@ -14,3 +16,4 @@ permalink: /version-control/
 
 [github]: {{ site.baseurl }}/version-control/github/
 [source-tree]: https://www.atlassian.com/software/sourcetree/overview
+[versioning]: {{ site.baseurl }}/version-control/versioning/

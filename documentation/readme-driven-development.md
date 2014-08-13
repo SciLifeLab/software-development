@@ -1,7 +1,7 @@
 ---
 layout: page
 title: README Driven Development
-permalink: /strategies/readme-driven-development/
+permalink: /documentation/readme-driven-development/
 ---
 ## <a name="stage-1"></a> Stage 1: Inception
 This is the ideation stage. You might have an idea or someone else has one that they decide to delegate to you. Either way, it's your problem now, and you need to brainstorm how you are going to solve it.

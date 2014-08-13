@@ -1,4 +1,4 @@
-# Site settings
+# site settings
 title: SciLifeLab
 email: robin.andeer@scilifelab.se
 description: >-
@@ -8,7 +8,7 @@ description: >-
 url: http://opensource.scilifelab.se/software-development
 baseurl: /software-development
 
-# Build settings
+# cuild settings
 markdown: kramdown
 permalink: pretty
 highlighter: pygments
