@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python
+title: Style Guides &rsaquo; Python
 permalink: /style-guides/python/
 ---
 

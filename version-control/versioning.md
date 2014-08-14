@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Versioning
+title: Version Control &rsaquo; Versioning
 permalink: /version-control/versioning/
 ---
 

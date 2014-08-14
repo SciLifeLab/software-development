@@ -1,6 +1,6 @@
 ---
 layout: page
-title: README Driven Development
+title: Documentation &rsaquo; README Driven Development
 permalink: /documentation/readme-driven-development/
 ---
 ## <a name="stage-1"></a> Stage 1: Inception

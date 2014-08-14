@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub
+title: Version Control &rsaquo; GitHub
 permalink: /version-control/github/
 ---
 
